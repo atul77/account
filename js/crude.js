@@ -2,7 +2,7 @@
 
  $(document).ready(function() {
     $(".crude").click(function() {
-        // var crude = $(this).data('value');
+        
         $("#admin_active_form").modal("show");
         
         // alert(crude);
